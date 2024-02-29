@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shivam Kopare</h1>
-<h3 align="center">A passionate Fullstack Web Developer from India</h3>
+<h1 align="center"><b>Hi 👋, I'm Shivam Kopare</b></h1>
+<h3 align="center">A Passionate Fullstack Web Developer from India</h3>
 
 ###
 
