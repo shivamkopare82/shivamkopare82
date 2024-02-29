@@ -2,8 +2,10 @@
 <h3 align="center">A Passionate Fullstack Web Developer from India</h3>
 
 ###
+<br>
 
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shivamkopare82&label=Profile%20views&color=0e75b6&style=flat" alt="shivamkopare82" /> </p>
 
 
 
