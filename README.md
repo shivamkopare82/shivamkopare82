@@ -201,7 +201,7 @@
 ###
 <br>
 <div align="center">
-  <h3 >Connect with me:</h3>
+  <h3 >Connect with Me:</h3>
   <br>
 
 
