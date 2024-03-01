@@ -55,14 +55,6 @@
           height="60"
         />
       </a>
-      <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-          alt="dotnet"
-          width="60"
-          height="60"
-        />
-      </a>
       <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
