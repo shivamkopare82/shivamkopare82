@@ -79,6 +79,12 @@
           height="70"
         />
       </a>
+        <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
+                alt="java" 
+                width="70" 
+                height="70"/> 
+        </a>
       <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
         <img
           src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"
